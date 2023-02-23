@@ -1266,4 +1266,7 @@
 #     person_2 = json.load(file_json_read)
 #
 # print(person_2)
+def greeting(name):
+    print("hello ",name)
+greeting("John")
 
