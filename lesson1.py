@@ -1269,4 +1269,4 @@
 def greeting(name):
     print("hello ",name)
 greeting("John")
-
+greeting("John")
